@@ -41,7 +41,7 @@ plaintext
 
 Katkıda Bulunanlar
 
-    [Adınız] tarafından ❤️ ile oluşturuldu.
+    Ahmet Malal tarafından oluşturuldu.
     Saf JavaScript, HTML5 Canvas ve CSS ile güçlendirildi.
 
 Lisans
